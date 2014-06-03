@@ -1,0 +1,1 @@
+INSERT INTO loan (id, initialCapital, interest, amortizationTime) values(1, 100000.00, 0.08, 10);
